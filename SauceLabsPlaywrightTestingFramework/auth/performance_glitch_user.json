@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "session-username",
+      "value": "performance_glitch_user",
+      "domain": "www.saucedemo.com",
+      "path": "/",
+      "expires": 1686776361,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
